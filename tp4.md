@@ -377,3 +377,10 @@ Références de commandes, et des infos récupérables par version de Windows :
 
 [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md)
 
+
+## Evil-WinRM
+
+[https://github.com/Hackplayers/evil-winrm/](https://github.com/Hackplayers/evil-winrm/)
+
+`./evil-winrm.rb -u vagrant -p vagrant -i 192.168.56.7`
+
