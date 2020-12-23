@@ -1,0 +1,22 @@
+Owasp Broken web apps :
+https://sourceforge.net/projects/owaspbwa/
+
+
+Web for pentester :
+
+téléchargement : https://www.pentesterlab.com/exercises/web_for_pentester/attachments
+solution : https://www.pentesterlab.com/exercises/web_for_pentester/course
+
+
+From sqli to shell :
+
+téléchargement : https://pentesterlab.com/exercises/from_sqli_to_shell/attachments
+
+solution : https://pentesterlab.com/exercises/from_sqli_to_shell/course
+
+
+Metasploitable 2 :
+https://docs.rapid7.com/metasploit/metasploitable-2/
+
+Metasploitable 3 :
+https://github.com/rapid7/metasploitable3
